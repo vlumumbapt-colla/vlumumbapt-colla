@@ -72,6 +72,9 @@ I build **statistically rigorous, explainable ML systems** that translate comple
 - **Data Analyst & Trainer**, CDAM, Chuka University (2024–Present)  
   Mentoring students in predictive modeling, survival analysis, and reproducible research practices
 
+- **Data Analyst & Trainer**, Mediacrest Training College, Nairobi, Kenya (2026 Jan–Present)  
+  Mentoring and training students in Data Analytics, predictive modeling, survival analysis, Business Analytics and reproducible research practices using GitHub
+
 - **Workshop Leadership**  
   - Led practical sessions on ML-based malaria forecasting (Chuka University, 2024)  
   - Mentored trainees in Tidy Time Series & Forecasting (AFRICAST webinar, 2024)  
